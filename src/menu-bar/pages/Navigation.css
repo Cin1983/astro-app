@@ -1,7 +1,9 @@
 .navLinks{
     width:50%;
     display:flex;
-    justify-content: space-evenly;
-    text-decoration: none;
+    justify-content: space-evenly; 
     list-style: none;
+}
+.navLinks li{
+    text-decoration: none;
 }
